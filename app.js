@@ -15,6 +15,6 @@ function agregarAmigo() {
         console.log(amigos)
     }
 }
-
+{}
 
 
